@@ -1,4 +1,4 @@
-# Data Analyser
+# Data_Analyser
 Data Analyser is an open source data visualization 
 web app which can also give automatic visualizations, created using Streamlit,
 This visualizer is easy to use and its property of giving automatic visualization 
