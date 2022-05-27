@@ -19,7 +19,7 @@ This visualization web app has a bundle of features
  2) Lineplots
  3) Histogram
  4) Boxplot
- 5) Violin plots'. <br>
+ 5) Violin plots. <br>
  6) Sunburst
  7) Tree maps
  8) Pie Charts. <br>
