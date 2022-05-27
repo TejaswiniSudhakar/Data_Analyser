@@ -1,5 +1,5 @@
 # Data_Analyser
-How to run the app
+# How to run the app
 1. Clone this repo.
 2. Install all requirements using: 
    pip install -r requirements.txt 
